@@ -1,4 +1,4 @@
-## project-1
+## DU Denver Project 1 - Climate Change by Visualization
 
 # Abstract
 
